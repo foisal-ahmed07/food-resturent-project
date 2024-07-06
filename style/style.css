@@ -134,8 +134,8 @@ opacity: 0.7;
 }
 
 .card-container button{
-    border-radius: 8px;
-    color: rgb(255, 255, 255);
+border-radius: 8px;
+ color: rgb(255, 255, 255);
 font-family: Work Sans;
 font-size: 20px;
 font-weight: 600;
@@ -147,8 +147,55 @@ cursor: pointer;
 background: rgb(82, 195, 3);
 }
 
+#page3 .image-kabab{
+    width: auto;
+    /* height: 671px; */
+    margin-bottom: 50px ;
+    display: flex;
 
+}
 
+#page3 .box-content .detail{
+    margin-left: 50px;
+    float:right ;
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  
+}
+
+#page3 .box-content .image-kabab .detail .head1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-bottom: 30px;
+}
+
+#page3 .box-content .image-kabab .detail .pra{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+}
+
+#page3 .box-content .image-kabab .detail .head2{
+    font-size: 32px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-top: 50px;
+}
+
+#page3 .box-content .icon{
+    
+}
 
 
 
